@@ -1,3 +1,2 @@
 # NALLURI VARSHITHA
-I'm from computer science background . <br>I want to be expert in web developing.
-[] https://www.google.com/search?q=dog+images&rlz=1C1GCEA_enUS1071US1071&oq=dog+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQABiDARixAxiABDIJCAMQABhDGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjkyNGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=SuD5KtduyFut_M&vssid=l
+I'm from computer science background . <br>I want to be expert in web developing.<br>
