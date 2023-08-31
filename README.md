@@ -12,4 +12,11 @@ Good Service ,**lean – People who** have **visited the third world will** atte
     2. shopping 
     3. wanna try different kinds of foods
 
+* food at spot 
+    * meals
+    * beverages
+    * desserts
+    
+
+
 
