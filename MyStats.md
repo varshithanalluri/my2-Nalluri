@@ -19,4 +19,4 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 # Quotes by scientists
 > **Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.**
 
-> -*Albert Einstein * :
+> -*Albert Einstein  * 
