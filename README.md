@@ -22,7 +22,6 @@ Good Service ,**lean – People who** have **visited the third world will** atte
 
 ---
 
-[go thtrough it ] C:\Users\S567129\Desktop\WEB APPLICATIONS\web repos\my2-Nalluri
-
+[go thtrough it ] https://github.com/varshithanalluri/my2-Nalluri/blob/main/MyStats.md
 
 
