@@ -9,9 +9,9 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 # | Name of the sport   | Reason to recommend   | Hours spent/week |
 | :--------------:    | :--------------:      | :--------------: |
 | Throw ball          | for good ealth        | 6                |
-| hockey              | physical fitness               |3             |
+| hockey              | physical fitness      |3                 |
 | Tennis              | for health            | 7                |
-|  Cricket              | mental fitness            | 7                |
+|  Cricket            | mental fitness      | 7                  |
 
 ---
 
