@@ -27,7 +27,7 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 ## code snippet
 
 
-> how to add tag comments in html? < https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element >
+> how to add  comment tags  in html? < https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element >
 ```
 <div id="header">
    <p>Stuff</p>
