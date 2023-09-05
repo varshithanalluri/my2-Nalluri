@@ -28,7 +28,9 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 
 
 > how to add tag comments in html? < https://stackoverflow.com/questions/30130324/what-does-in-html-mean >
-<!--  
+```
 <div id="header">
    <p>Stuff</p>
-</div> <!-- stuff-->-->
+</div> <!-- stuff--> 
+```
+< https://css-tricks.com/snippets/html/comments-in-html/>
