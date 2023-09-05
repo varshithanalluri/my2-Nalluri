@@ -8,8 +8,8 @@ Good Service ,**lean – People who** have **visited the third world will** atte
 ---
 
       
-1.   ##  ORDERED LISTS  AND UNORDERED LISTS
- 2.   ### ORDERED LISTS
+   ##  ORDERED LISTS  AND UNORDERED LISTS
+ 1.   ### ORDERED LISTS
 2.  preferences
     1. enjoying weather
     2. shopping 
@@ -22,6 +22,6 @@ Good Service ,**lean – People who** have **visited the third world will** atte
 
 ---
 
-[go thtrough it ] https://github.com/varshithanalluri/my2-Nalluri/blob/main/MyStats.md
+[go thtrough it ] (https://github.com/varshithanalluri/my2-Nalluri/blob/main/MyStats.md)
 
 
