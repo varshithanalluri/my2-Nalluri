@@ -1,10 +1,10 @@
 # NALLURI VARSHITHA
 I'm from computer science background . <br>I want to be expert in web developing.<br>
-[ TRY] https://github.com/varshithanalluri/my2-Nalluri/blob/main/image.jfif
+[ MINE] (https://github.com/varshithanalluri/my2-Nalluri/blob/main/mine.jpeg)
 
 ---
 
-# Tables 
+# Sports you should try 
 Table is about Sports which i recommend to play .Recomended  sports are are very nice and need not to spend more time on  while learning.
  
 | Name of the sport  |  Reason to recommend   | Hours spent/week |
@@ -28,6 +28,7 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 
 
 > how to add  comment tags  in html? < https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element >
+
 ```
 <div id="header">
    <p>Stuff</p>
