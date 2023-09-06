@@ -1,6 +1,6 @@
 # NALLURI VARSHITHA
 I'm from computer science background . <br>I want to be expert in web developing.<br>
-
+[MINE](https://github.com/varshithanalluri/my2-Nalluri/blob/main/mine.jpeg)
 ---
 
 # Sports you should try 
@@ -26,11 +26,13 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 ## code snippet
 
 
-> how to add  comment tags  in html? < https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element >
+> how to add  comment tags  in html? 
+<br>
+<https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element>
 
 ```
 <div id="header">
    <p>Stuff</p>
 </div> <!-- stuff--> 
 ```
-< https://css-tricks.com/snippets/html/comments-in-html/>
+<https://css-tricks.com/snippets/html/comments-in-html/>
