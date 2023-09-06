@@ -29,11 +29,11 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 
 > how to add  comment tags  in html? 
 
- <https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element>
+ [Source of Stack Overflow](https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element)
 
 ```
 <div id="header">
    <p>Stuff</p>
 </div> <!-- stuff--> 
 ```
-<https://css-tricks.com/snippets/html/comments-in-html/>
+[Source of code snippet]<https://css-tricks.com/snippets/html/comments-in-html/>
