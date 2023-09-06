@@ -1,6 +1,6 @@
 # NALLURI VARSHITHA
   ### I'm from computer science background . <br>I want to be expert in web developing.<br>
-  [MINE]mine.jpeg
+  ![MINE](mine.jpeg)
   
 ---
 
@@ -11,8 +11,8 @@ Table is about Sports which i recommend to play .Recomended  sports are are very
 | :--------------:    | :--------------:      | :--------------: |
 | Throw ball          | for good ealth        | 6                |
 | hockey              | physical fitness      |3                 |
-| Tennis              | for health            | 7                |
-|  Cricket            | mental fitness      | 7                  |
+| Tennis              | for health            | 1                |
+|  Cricket            | mental fitness      | 3                 |
 
 ---
 
