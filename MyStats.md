@@ -1,7 +1,7 @@
 # NALLURI VARSHITHA
   ### I'm from computer science background . <br>I want to be expert in web developing.<br>
- ![MINE](mine.jpeg)
  
+
 ---
 
 ## Sports you should try 
