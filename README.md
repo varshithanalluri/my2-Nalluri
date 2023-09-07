@@ -5,13 +5,11 @@ Good Service ,**lean – People who** have **visited the third world will** atte
 ---
 
       
-   ##  ORDERED LISTS  AND UNORDERED LISTS
- 1.   ### ORDERED LISTS
-2.  preferences
+   1. preferences at spot
     1. enjoying weather
     2. shopping 
     3. wanna try different kinds of foods
-* ### UNORDERED LISTS
+
 * food at spot 
     * meals
     * beverages.
