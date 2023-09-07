@@ -5,7 +5,7 @@ Good Service ,**lean – People who** have **visited the third world will** atte
 ---
 
       
-   1. preferences at spot
+1. preferences at spot<br>
     1. enjoying weather
     2. shopping 
     3. wanna try different kinds of foods
